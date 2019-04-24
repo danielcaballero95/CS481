@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitBud</string>
+    <string name="input_name">Enter Name</string>
+    <string name="input_pass">Password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create Account</string>
+    <string name="forcemipsum">Have you ever heard the story of Darth Plagus the wise?</string>
+
+</resources>
